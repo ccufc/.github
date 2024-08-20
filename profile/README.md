@@ -20,4 +20,6 @@
 <img src="https://github.com/joaokaue.png?s=50" width="50" height="50"></a>
 <a href="https://github.com/alisondantas">
 <img src="https://github.com/alisondantas.png?s=50" width="50" height="50"></a>
+<a href="https://github.com/josuelemoos">
+<img src="https://github.com/josuelemoos.png?s=50" width="50" height="50"></a>
 </div>
