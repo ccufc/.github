@@ -10,8 +10,8 @@
 <img src="https://github.com/emanoelvitor.png?s=50" width="50" height="50"></a>
 <a href="https://github.com/pkziinn10">
 <img src="https://github.com/pkziinn10.png?s=50" width="50" height="50"></a>
-<a href="https://github.com/aslisonas">
-<img src="https://github.com/aslisonas.png?s=50" width="50" height="50"></a>
+<a href="https://github.com/alisondeveloper">
+<img src="https://github.com/alisondeveloper.png?s=50" width="50" height="50"></a>
 <a href="https://github.com/nuvim">
 <img src="https://github.com/nuvim.png?s=50" width="50" height="50"></a>
 <a href="https://github.com/mikeyasbrito">
